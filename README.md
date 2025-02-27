@@ -51,7 +51,8 @@ python manage.py runserver
 
 ![screenshot 1](https://github.com/jawad-zaidi-026/Student-Report-Card-Management-System/blob/main/Screenshot%202025-02-27%20211741.png)
 ![screenshot 2](https://github.com/jawad-zaidi-026/Student-Report-Card-Management-System/blob/main/Screenshot%202025-02-27%20211801.png)
-![screenshot 3]()
-![screenshot 4]
-![screenshot 5]
-![screenshot 6]
+![Screenshot 3](https://github.com/jawad-zaidi-026/Student-Report-Card-Management-System/blob/main/Screenshot%202025-02-27%20211839.png)
+![Screenshot 4](https://github.com/jawad-zaidi-026/Student-Report-Card-Management-System/blob/main/Screenshot%202025-02-27%20211854.png)
+![Screenshot 5](https://github.com/jawad-zaidi-026/Student-Report-Card-Management-System/blob/main/Screenshot%202025-02-27%20211914.png)
+![Screenshot 6](https://github.com/jawad-zaidi-026/Student-Report-Card-Management-System/blob/main/Screenshot%202025-02-27%20212004.png)
+
