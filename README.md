@@ -50,8 +50,8 @@ python manage.py runserver
 #Open in browser: http://127.0.0.1:8000/
 
 ![screenshot 1](https://github.com/jawad-zaidi-026/Student-Report-Card-Management-System/blob/main/Screenshot%202025-02-27%20211741.png)
-![screenshot 2]()
-![screenshot 3]
+![screenshot 2](https://github.com/jawad-zaidi-026/Student-Report-Card-Management-System/blob/main/Screenshot%202025-02-27%20211801.png)
+![screenshot 3]()
 ![screenshot 4]
 ![screenshot 5]
 ![screenshot 6]
