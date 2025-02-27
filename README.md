@@ -2,11 +2,13 @@
 A Django-based student report system managing 210 students across 5 departments with 5-6 subjects each. Features search, ranking automation, clickable student profiles, and bulk report card generation via admin panel.
 
 #Student Report Card Management System
+
 ![screenshot 1](https://github.com/jawad-zaidi-026/Student-Report-Card-Management-System/blob/main/Screenshot%202025-02-27%20211741.png)
 
 #Description
 
 A Django-based student report system managing 210 students across 5 departments with 5-6 subjects each. Features search, ranking automation, clickable student profiles, and bulk report card generation via the admin panel.
+
 ![screenshot 2](https://github.com/jawad-zaidi-026/Student-Report-Card-Management-System/blob/main/Screenshot%202025-02-27%20211801.png)
 ![Screenshot 3](https://github.com/jawad-zaidi-026/Student-Report-Card-Management-System/blob/main/Screenshot%202025-02-27%20211839.png)
 
@@ -17,6 +19,7 @@ A Django-based student report system managing 210 students across 5 departments 
 -Frontend: HTML, CSS, Bootstrap
 
 -Database: Django’s built-in SQLite
+
 ![Screenshot 4](https://github.com/jawad-zaidi-026/Student-Report-Card-Management-System/blob/main/Screenshot%202025-02-27%20211854.png)
 
 #Features
@@ -26,6 +29,7 @@ A Django-based student report system managing 210 students across 5 departments 
 ✅ Clickable student profiles displaying marks, total score, rank, and creation date
 ✅ Pagination for efficient browsing
 ✅ Department-wise categorization
+
 ![Screenshot 5](https://github.com/jawad-zaidi-026/Student-Report-Card-Management-System/blob/main/Screenshot%202025-02-27%20211914.png)
 
 #Installation Guide
