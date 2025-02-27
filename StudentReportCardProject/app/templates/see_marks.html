@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="container mt-4">
+    <h4>RANK : {{queryset.first.student.studentreportcard.first.student_rank}}</h4>
+    <h4>TOTAL MARKS : {{total_marks.total_marks}}</h4>
+    <h4>DATE OF RESULT : {{queryset.first.student.studentreportcard.first.date_of_report_card_generation}}</h4>
+
+
+    <table class="table table-bordered table-hover">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Subject Name</th>
+                <th scope="col">Total Marks</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for marks in queryset %}
+            <tr>
+                <th scope="row">{{ forloop.counter }}</th>
+                <td>{{ marks.subject.subject_name }}</td>
+                <td>{{ marks.marks }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+{% endblock %}
